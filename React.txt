@@ -1,0 +1,2 @@
+1. What is the difference between functional and class component?
+2. What are advantages and disadvantages of React?
