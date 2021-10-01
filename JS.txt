@@ -1,0 +1,6 @@
+1. What is JS?
+2. What are advantages of JS?
+3. Differences between declaring variables using var, let and const.
+4. What is the use of a constructor function in javascript?
+5. What are callbacks?
+6. What is the rest parameter and spread operator?
